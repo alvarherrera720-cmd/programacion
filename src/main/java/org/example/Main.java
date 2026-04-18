@@ -10,6 +10,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 /*
+*  TRABAJO HECHO POR ÁLVARO RAMOS Y ÁLVARO JOSÉ
  * Clase principal del programa de gestión de la biblioteca.
  *
  * Demuestra los 5 ejemplos pedidos en la tarea:
